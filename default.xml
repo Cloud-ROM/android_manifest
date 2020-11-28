@@ -854,4 +854,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add all CloudROM repos -->
+  <include name="snippets/cloud.xml" />
+
 </manifest>

@@ -5,6 +5,10 @@
           fetch="https://github.com/Cloud-ROM"
           revision="11" />
 
+  <remote name="cloud-devices"
+          fetch="https://github.com/Cloud-Devices"
+          revision="11" />
+
   <!-- External repos -->
 
   <!-- Framework repos -->

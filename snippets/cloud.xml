@@ -12,6 +12,7 @@
   <!-- External repos -->
 
   <!-- Framework repos -->
+  <project path="frameworks/base" name="android_frameworks_base" remote="cloud" />
 
   <!-- General repos -->
   <project path="build/make" name="android_build" remote="cloud">

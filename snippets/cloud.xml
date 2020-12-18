@@ -26,6 +26,9 @@
   </project>
   <project path="vendor/aosp" name="android_vendor_aosp" remote="cloud" />
 
+  <!-- Hardware repos -->
+  <project path="hardware/qcom-caf/sm8150/display" name="android_hardware_qcom-caf_sm8150_display" remote="cloud" />
+
   <!-- Packages repos -->
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="cloud" />
 

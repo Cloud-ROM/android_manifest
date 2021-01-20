@@ -3,7 +3,7 @@
 
   <remote name="lineage"
           fetch="https://github.com/LineageOS"
-          revision="lineage-18.0" />
+          revision="lineage-18.1" />
 
   <!-- CodeAurora additions -->
   <project path="external/ant-wireless/ant_client" name="android_external_ant-wireless_ant_client" remote="lineage" />
@@ -46,7 +46,7 @@
   <project path="prebuilts/tools-custom" name="android_prebuilts_tools-lineage" remote="lineage" clone-depth="1" />
 
   <!-- External repos -->
-  <project path="external/bson" name="android_external_bson" remote="lineage" revision="lineage-18.1" />
+  <project path="external/bson" name="android_external_bson" remote="lineage" />
   <project path="external/connectivity" name="android_external_connectivity" remote="lineage" />
   <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
